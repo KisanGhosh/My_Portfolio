@@ -45,7 +45,7 @@ const allprojects = () => {
                                 title='Calculator'
                                 imageUrl='images/projects/calculator.png'
                                 body='This is a Calculator app using HTML,CSS,JavaScript.'
-                                buttonUrl='https://github.com/KisanGhosh/Railway_Reservation_System_in_MERN'
+                                buttonUrl='https://github.com/KisanGhosh/Calculator'
                             />
                         </div>
                         <div className="col-md-6 col-12">
@@ -53,7 +53,7 @@ const allprojects = () => {
                                 title='Log In Page'
                                 imageUrl='images/projects/login.png'
                                 body='This is a Log In Page of a website using HTML,CSS,JavaScript.'
-                                buttonUrl='https://github.com/KisanGhosh/Railway_Reservation_System_in_MERN'
+                                buttonUrl='https://github.com/KisanGhosh/Log_In_Page'
                             />
                         </div>
                         <div className="col-md-6 col-12">
@@ -61,7 +61,7 @@ const allprojects = () => {
                                 title='My Portfolio'
                                 imageUrl='images/projects/portfolio.png'
                                 body='This is My Portfolio. It is created using React Js.'
-                                buttonUrl='https://github.com/KisanGhosh/Railway_Reservation_System_in_MERN'
+                                buttonUrl='https://github.com/KisanGhosh/My_Portfolio'
                             />
                         </div>
                     </div>
